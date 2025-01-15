@@ -14,7 +14,7 @@ A API é configurada para utilizar o servidor de e-mails do Gmail.
 A configuração da API é feita via arquivo `appsettings.json`, que contém as seguintes configurações:
 
 * `SmtpSettings`: configurações do servidor de e-mails, incluindo servidor, porta, nome do remetente, e-mail do remetente, usuário e senha. 🔒
-* `PdfFilePath`: caminho do arquivo PDF que será anexado ao e-mail. 📄
+* `PdfFilePath`: caminho da pasta que contém o arquivo PDF que poderá ser anexado ao e-mail. 📄
 
 ## Endpoints
 
