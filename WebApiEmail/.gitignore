@@ -1,0 +1,14 @@
+﻿# Ignorar diretório de configuração do Visual Studio
+.vs/
+
+# Ignorar arquivos de build e debug
+bin/
+obj/
+*.log
+*.user
+*.suo
+*.pdb
+*.cache
+*.csproj.user
+*.csproj.vspscc
+*.vscode/
